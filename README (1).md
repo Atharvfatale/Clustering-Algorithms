@@ -1,14 +1,5 @@
 # Practical 6: Clustering Algorithms
 
-TY B.Tech. AIML Practical Assignment
-
-| | |
-|---|---|
-| Student | Atharv Jeevan Fatale |
-| PRN | 202401070076 |
-| Branch / Division / Batch | ENTC / A / A2 |
-| Faculty | Mrs. Anita Shingade |
-
 ## Aim
 
 Implement clustering algorithms on a real-world dataset to identify meaningful groups, and evaluate the results using Silhouette Score, Davies-Bouldin Index, Calinski-Harabasz Index and visual inspection.
